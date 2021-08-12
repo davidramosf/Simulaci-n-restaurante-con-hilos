@@ -1,0 +1,848 @@
+[12/08/2021 11:11:06] Cliente10 deja el pedido Cliente10- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente6 deja el pedido Cliente6- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente9 deja el pedido Cliente9- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Empleado1 coge el pedido Cliente1- P1 del mostrador de pedidos
+[12/08/2021 11:11:06] Cliente4 deja el pedido Cliente4- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente5 deja el pedido Cliente5- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente1 deja el pedido Cliente1- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Empleado2 coge el pedido Cliente2- P1 del mostrador de pedidos
+[12/08/2021 11:11:06] Cliente2 deja el pedido Cliente2- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente12 deja el pedido Cliente12- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente3 deja el pedido Cliente3- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente8 deja el pedido Cliente8- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente7 deja el pedido Cliente7- P1 en el mostrador de pedidos
+[12/08/2021 11:11:06] Cliente11 deja el pedido Cliente11- P1 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado2 deja el pedido Cliente2- P1 en la mesa de pedidos
+[12/08/2021 11:11:07] Cocinero1 coge el pedido Cliente2- P1 de la mesa de platos
+[12/08/2021 11:11:07] Cliente13 deja el pedido Cliente13- P1 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado2 coge el pedido Cliente3- P1 del mostrador de pedidos
+[12/08/2021 11:11:07] Cliente9 deja el pedido Cliente9- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado1 deja el pedido Cliente1- P1 en la mesa de pedidos
+[12/08/2021 11:11:07] Cocinero2 coge el pedido Cliente1- P1 de la mesa de platos
+[12/08/2021 11:11:07] Empleado1 coge el pedido Cliente4- P1 del mostrador de pedidos
+[12/08/2021 11:11:07] Cliente14 deja el pedido Cliente14- P1 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente8 deja el pedido Cliente8- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente5 deja el pedido Cliente5- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente6 deja el pedido Cliente6- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente1 deja el pedido Cliente1- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente4 deja el pedido Cliente4- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente7 deja el pedido Cliente7- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente10 deja el pedido Cliente10- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente11 deja el pedido Cliente11- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente12 deja el pedido Cliente12- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado2 deja el pedido Cliente3- P1 en la mesa de pedidos
+[12/08/2021 11:11:07] Cocinero3 coge el pedido Cliente3- P1 de la mesa de platos
+[12/08/2021 11:11:07] Cliente15 deja el pedido Cliente15- P1 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado2 coge el pedido Cliente5- P1 del mostrador de pedidos
+[12/08/2021 11:11:07] Cliente3 deja el pedido Cliente3- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado1 deja el pedido Cliente4- P1 en la mesa de pedidos
+[12/08/2021 11:11:07] Cliente16 deja el pedido Cliente16- P1 en el mostrador de pedidos
+[12/08/2021 11:11:07] Empleado1 coge el pedido Cliente6- P1 del mostrador de pedidos
+[12/08/2021 11:11:07] Cliente2 deja el pedido Cliente2- P2 en el mostrador de pedidos
+[12/08/2021 11:11:07] Cliente13 deja el pedido Cliente13- P2 en el mostrador de pedidos
+[12/08/2021 11:11:08] Cliente14 deja el pedido Cliente14- P2 en el mostrador de pedidos
+[12/08/2021 11:11:08] Empleado2 deja el pedido Cliente5- P1 en la mesa de pedidos
+[12/08/2021 11:11:08] Empleado1 deja el pedido Cliente6- P1 en la mesa de pedidos
+[12/08/2021 11:11:08] Cliente15 deja el pedido Cliente15- P2 en el mostrador de pedidos
+[12/08/2021 11:11:08] Cliente16 deja el pedido Cliente16- P2 en el mostrador de pedidos
+[12/08/2021 11:11:08] Cocinero1 Cocinado pedidoCliente2- P1
+[12/08/2021 11:11:09] Cocinero2 Cocinado pedidoCliente1- P1
+[12/08/2021 11:11:09] Cocinero3 Cocinado pedidoCliente3- P1
+[12/08/2021 11:11:20] Cliente8 deja el pedido Cliente8- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente10 deja el pedido Cliente10- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente3 deja el pedido Cliente3- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente9 deja el pedido Cliente9- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente11 deja el pedido Cliente11- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Empleado1 coge el pedido Cliente1- P1 del mostrador de pedidos
+[12/08/2021 11:11:20] Cliente2 deja el pedido Cliente2- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente7 deja el pedido Cliente7- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente6 deja el pedido Cliente6- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente5 deja el pedido Cliente5- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente12 deja el pedido Cliente12- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente4 deja el pedido Cliente4- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Cliente1 deja el pedido Cliente1- P1 en el mostrador de pedidos
+[12/08/2021 11:11:20] Empleado2 coge el pedido Cliente2- P1 del mostrador de pedidos
+[12/08/2021 11:11:20] Empleado2 deja el pedido Cliente2- P1 en la mesa de pedidos
+[12/08/2021 11:11:20] Cocinero1 coge el pedido Cliente2- P1 de la mesa de platos
+[12/08/2021 11:11:21] Empleado2 coge el pedido Cliente3- P1 del mostrador de pedidos
+[12/08/2021 11:11:21] Cliente13 deja el pedido Cliente13- P1 en el mostrador de pedidos
+[12/08/2021 11:11:21] Empleado1 deja el pedido Cliente1- P1 en la mesa de pedidos
+[12/08/2021 11:11:21] Cocinero2 coge el pedido Cliente1- P1 de la mesa de platos
+[12/08/2021 11:11:21] Empleado1 coge el pedido Cliente4- P1 del mostrador de pedidos
+[12/08/2021 11:11:21] Cliente14 deja el pedido Cliente14- P1 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente6 deja el pedido Cliente6- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente3 deja el pedido Cliente3- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente9 deja el pedido Cliente9- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente8 deja el pedido Cliente8- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente4 deja el pedido Cliente4- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente7 deja el pedido Cliente7- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente10 deja el pedido Cliente10- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente1 deja el pedido Cliente1- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Empleado2 deja el pedido Cliente3- P1 en la mesa de pedidos
+[12/08/2021 11:11:21] Cocinero3 coge el pedido Cliente3- P1 de la mesa de platos
+[12/08/2021 11:11:21] Cliente15 deja el pedido Cliente15- P1 en el mostrador de pedidos
+[12/08/2021 11:11:21] Empleado2 coge el pedido Cliente5- P1 del mostrador de pedidos
+[12/08/2021 11:11:21] Empleado1 deja el pedido Cliente4- P1 en la mesa de pedidos
+[12/08/2021 11:11:21] Cliente16 deja el pedido Cliente16- P1 en el mostrador de pedidos
+[12/08/2021 11:11:21] Empleado1 coge el pedido Cliente6- P1 del mostrador de pedidos
+[12/08/2021 11:11:21] Cliente2 deja el pedido Cliente2- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente11 deja el pedido Cliente11- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente5 deja el pedido Cliente5- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente12 deja el pedido Cliente12- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente13 deja el pedido Cliente13- P2 en el mostrador de pedidos
+[12/08/2021 11:11:21] Cliente14 deja el pedido Cliente14- P2 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado2 deja el pedido Cliente5- P1 en la mesa de pedidos
+[12/08/2021 11:11:22] Empleado2 coge el pedido Cliente7- P1 del mostrador de pedidos
+[12/08/2021 11:11:22] Cliente17 deja el pedido Cliente17- P1 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado1 deja el pedido Cliente6- P1 en la mesa de pedidos
+[12/08/2021 11:11:22] Cliente18 deja el pedido Cliente18- P1 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado1 coge el pedido Cliente8- P1 del mostrador de pedidos
+[12/08/2021 11:11:22] Cliente15 deja el pedido Cliente15- P2 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado1 deja el pedido Cliente8- P1 en la mesa de pedidos
+[12/08/2021 11:11:22] Cliente16 deja el pedido Cliente16- P2 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado1 coge el pedido Cliente9- P1 del mostrador de pedidos
+[12/08/2021 11:11:22] Cliente19 deja el pedido Cliente19- P1 en el mostrador de pedidos
+[12/08/2021 11:11:22] Empleado2 deja el pedido Cliente7- P1 en la mesa de pedidos
+[12/08/2021 11:11:22] Empleado2 coge el pedido Cliente10- P1 del mostrador de pedidos
+[12/08/2021 11:11:22] Cliente20 deja el pedido Cliente20- P1 en el mostrador de pedidos
+[12/08/2021 11:11:22] Cocinero2 Cocinado pedidoCliente1- P1
+[12/08/2021 11:11:22] Cocinero2 coge el pedido Cliente4- P1 de la mesa de platos
+[12/08/2021 11:11:22] Cliente17 deja el pedido Cliente17- P2 en el mostrador de pedidos
+[12/08/2021 11:11:22] Cliente18 deja el pedido Cliente18- P2 en el mostrador de pedidos
+[12/08/2021 11:11:22] Cocinero1 Cocinado pedidoCliente2- P1
+[12/08/2021 11:11:22] Cocinero1 coge el pedido Cliente5- P1 de la mesa de platos
+[12/08/2021 11:11:23] Empleado1 deja el pedido Cliente9- P1 en la mesa de pedidos
+[12/08/2021 11:11:23] Empleado1 coge el pedido Cliente11- P1 del mostrador de pedidos
+[12/08/2021 11:11:23] Cliente21 deja el pedido Cliente21- P1 en el mostrador de pedidos
+[12/08/2021 11:11:23] Empleado2 deja el pedido Cliente10- P1 en la mesa de pedidos
+[12/08/2021 11:11:23] Cocinero3 Cocinado pedidoCliente3- P1
+[12/08/2021 11:11:23] Cocinero3 coge el pedido Cliente6- P1 de la mesa de platos
+[12/08/2021 11:11:23] Empleado2 coge el pedido Cliente12- P1 del mostrador de pedidos
+[12/08/2021 11:11:23] Cliente22 deja el pedido Cliente22- P1 en el mostrador de pedidos
+[12/08/2021 11:11:23] Cliente19 deja el pedido Cliente19- P2 en el mostrador de pedidos
+[12/08/2021 11:11:23] Cliente20 deja el pedido Cliente20- P2 en el mostrador de pedidos
+[12/08/2021 11:11:37] Cocinero1 coge el pedido Cliente5- P1 de la mesa de platos
+[12/08/2021 11:11:37] Cocinero2 coge el pedido Cliente4- P1 de la mesa de platos
+[12/08/2021 11:11:37] Cocinero3 coge el pedido Cliente6- P1 de la mesa de platos
+[12/08/2021 11:11:37] Cliente17 deja el pedido Cliente17- P1 en el mostrador de pedidos
+[12/08/2021 11:11:37] Empleado2 coge el pedido Cliente8- P1 del mostrador de pedidos
+[12/08/2021 11:11:37] Cliente18 deja el pedido Cliente18- P1 en el mostrador de pedidos
+[12/08/2021 11:11:37] Empleado1 coge el pedido Cliente7- P1 del mostrador de pedidos
+[12/08/2021 11:11:37] Cliente18 deja el pedido Cliente18- P2 en el mostrador de pedidos
+[12/08/2021 11:11:37] Empleado1 deja el pedido Cliente7- P1 en la mesa de pedidos
+[12/08/2021 11:11:37] Empleado1 coge el pedido Cliente9- P1 del mostrador de pedidos
+[12/08/2021 11:11:37] Cliente19 deja el pedido Cliente19- P1 en el mostrador de pedidos
+[12/08/2021 11:11:37] Empleado2 deja el pedido Cliente8- P1 en la mesa de pedidos
+[12/08/2021 11:11:37] Cliente20 deja el pedido Cliente20- P1 en el mostrador de pedidos
+[12/08/2021 11:11:37] Empleado2 coge el pedido Cliente10- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cliente17 deja el pedido Cliente17- P2 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado1 deja el pedido Cliente9- P1 en la mesa de pedidos
+[12/08/2021 11:11:38] Empleado1 coge el pedido Cliente11- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cliente21 deja el pedido Cliente21- P1 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado2 deja el pedido Cliente10- P1 en la mesa de pedidos
+[12/08/2021 11:11:38] Empleado2 coge el pedido Cliente12- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cliente22 deja el pedido Cliente22- P1 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado1 deja el pedido Cliente11- P1 en la mesa de pedidos
+[12/08/2021 11:11:38] Empleado1 coge el pedido Cliente13- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cliente23 deja el pedido Cliente23- P1 en el mostrador de pedidos
+[12/08/2021 11:11:38] Cliente19 deja el pedido Cliente19- P2 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado2 deja el pedido Cliente12- P1 en la mesa de pedidos
+[12/08/2021 11:11:38] Cliente24 deja el pedido Cliente24- P1 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado2 coge el pedido Cliente14- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cocinero1 Cocinado pedidoCliente5- P1
+[12/08/2021 11:11:38] Cocinero1 coge el pedido Cliente7- P1 de la mesa de platos
+[12/08/2021 11:11:38] Cliente20 deja el pedido Cliente20- P2 en el mostrador de pedidos
+[12/08/2021 11:11:38] Empleado1 deja el pedido Cliente13- P1 en la mesa de pedidos
+[12/08/2021 11:11:38] Empleado1 coge el pedido Cliente15- P1 del mostrador de pedidos
+[12/08/2021 11:11:38] Cliente25 deja el pedido Cliente25- P1 en el mostrador de pedidos
+[12/08/2021 11:11:38] Cocinero2 Cocinado pedidoCliente4- P1
+[12/08/2021 11:11:38] Cocinero2 coge el pedido Cliente8- P1 de la mesa de platos
+[12/08/2021 11:11:38] Cliente22 deja el pedido Cliente22- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Cliente21 deja el pedido Cliente21- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Cocinero3 Cocinado pedidoCliente6- P1
+[12/08/2021 11:11:39] Cocinero3 coge el pedido Cliente9- P1 de la mesa de platos
+[12/08/2021 11:11:39] Cliente23 deja el pedido Cliente23- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Cliente24 deja el pedido Cliente24- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado2 deja el pedido Cliente14- P1 en la mesa de pedidos
+[12/08/2021 11:11:39] Empleado2 coge el pedido Cliente16- P1 del mostrador de pedidos
+[12/08/2021 11:11:39] Cliente26 deja el pedido Cliente26- P1 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado1 deja el pedido Cliente15- P1 en la mesa de pedidos
+[12/08/2021 11:11:39] Empleado1 coge el pedido Cliente17- P1 del mostrador de pedidos
+[12/08/2021 11:11:39] Cliente27 deja el pedido Cliente27- P1 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado1 deja el pedido Cliente17- P1 en la mesa de pedidos
+[12/08/2021 11:11:39] Cliente28 deja el pedido Cliente28- P1 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado1 coge el pedido Cliente18- P1 del mostrador de pedidos
+[12/08/2021 11:11:39] Cliente25 deja el pedido Cliente25- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado2 deja el pedido Cliente16- P1 en la mesa de pedidos
+[12/08/2021 11:11:39] Cliente27 deja el pedido Cliente27- P2 en el mostrador de pedidos
+[12/08/2021 11:11:39] Empleado2 coge el pedido Cliente19- P1 del mostrador de pedidos
+[12/08/2021 11:11:39] Cliente29 deja el pedido Cliente29- P1 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado1 deja el pedido Cliente18- P1 en la mesa de pedidos
+[12/08/2021 11:11:40] Cliente30 deja el pedido Cliente30- P1 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado1 coge el pedido Cliente20- P1 del mostrador de pedidos
+[12/08/2021 11:11:40] Cliente28 deja el pedido Cliente28- P2 en el mostrador de pedidos
+[12/08/2021 11:11:40] Cliente26 deja el pedido Cliente26- P2 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado2 deja el pedido Cliente19- P1 en la mesa de pedidos
+[12/08/2021 11:11:40] Empleado2 coge el pedido Cliente21- P1 del mostrador de pedidos
+[12/08/2021 11:11:40] Cliente31 deja el pedido Cliente31- P1 en el mostrador de pedidos
+[12/08/2021 11:11:40] Cliente29 deja el pedido Cliente29- P2 en el mostrador de pedidos
+[12/08/2021 11:11:40] Cocinero1 Cocinado pedidoCliente7- P1
+[12/08/2021 11:11:40] Cocinero1 coge el pedido Cliente10- P1 de la mesa de platos
+[12/08/2021 11:11:40] Cocinero2 Cocinado pedidoCliente8- P1
+[12/08/2021 11:11:40] Cocinero2 coge el pedido Cliente11- P1 de la mesa de platos
+[12/08/2021 11:11:40] Empleado1 deja el pedido Cliente20- P1 en la mesa de pedidos
+[12/08/2021 11:11:40] Cliente32 deja el pedido Cliente32- P1 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado1 coge el pedido Cliente22- P1 del mostrador de pedidos
+[12/08/2021 11:11:40] Cliente30 deja el pedido Cliente30- P2 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado2 deja el pedido Cliente21- P1 en la mesa de pedidos
+[12/08/2021 11:11:40] Cliente33 deja el pedido Cliente33- P1 en el mostrador de pedidos
+[12/08/2021 11:11:40] Empleado2 coge el pedido Cliente23- P1 del mostrador de pedidos
+[12/08/2021 11:11:41] Cocinero3 Cocinado pedidoCliente9- P1
+[12/08/2021 11:11:41] Cocinero3 coge el pedido Cliente12- P1 de la mesa de platos
+[12/08/2021 11:11:41] Empleado1 deja el pedido Cliente22- P1 en la mesa de pedidos
+[12/08/2021 11:11:41] Cliente34 deja el pedido Cliente34- P1 en el mostrador de pedidos
+[12/08/2021 11:11:41] Empleado1 coge el pedido Cliente24- P1 del mostrador de pedidos
+[12/08/2021 11:11:41] Cliente31 deja el pedido Cliente31- P2 en el mostrador de pedidos
+[12/08/2021 11:11:41] Empleado2 deja el pedido Cliente23- P1 en la mesa de pedidos
+[12/08/2021 11:11:41] Cliente35 deja el pedido Cliente35- P1 en el mostrador de pedidos
+[12/08/2021 11:11:41] Empleado2 coge el pedido Cliente25- P1 del mostrador de pedidos
+[12/08/2021 11:11:41] Cliente32 deja el pedido Cliente32- P2 en el mostrador de pedidos
+[12/08/2021 11:11:41] Cliente34 deja el pedido Cliente34- P2 en el mostrador de pedidos
+[12/08/2021 11:11:41] Empleado2 deja el pedido Cliente25- P1 en la mesa de pedidos
+[12/08/2021 11:11:41] Cliente36 deja el pedido Cliente36- P1 en el mostrador de pedidos
+[12/08/2021 11:11:41] Empleado2 coge el pedido Cliente26- P1 del mostrador de pedidos
+[12/08/2021 11:11:41] Empleado1 deja el pedido Cliente24- P1 en la mesa de pedidos
+[12/08/2021 11:11:41] Empleado1 coge el pedido Cliente27- P1 del mostrador de pedidos
+[12/08/2021 11:11:41] Cliente37 deja el pedido Cliente37- P1 en el mostrador de pedidos
+[12/08/2021 11:11:41] Cliente33 deja el pedido Cliente33- P2 en el mostrador de pedidos
+[12/08/2021 11:11:41] Cliente35 deja el pedido Cliente35- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente11 deja el pedido Cliente11- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado1 coge el pedido Cliente1- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente4 deja el pedido Cliente4- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente5 deja el pedido Cliente5- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente3 deja el pedido Cliente3- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente10 deja el pedido Cliente10- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente1 deja el pedido Cliente1- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente6 deja el pedido Cliente6- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente13 deja el pedido Cliente13- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente2 deja el pedido Cliente2- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente9 deja el pedido Cliente9- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado2 coge el pedido Cliente2- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente8 deja el pedido Cliente8- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente7 deja el pedido Cliente7- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cocinero2 Cocinado pedidoCliente11- P1
+[12/08/2021 11:11:42] Cocinero2 coge el pedido Cliente13- P1 de la mesa de platos
+[12/08/2021 11:11:42] Empleado2 deja el pedido Cliente26- P1 en la mesa de pedidos
+[12/08/2021 11:11:42] Empleado2 coge el pedido Cliente28- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente38 deja el pedido Cliente38- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado2 deja el pedido Cliente2- P1 en la mesa de pedidos
+[12/08/2021 11:11:42] Empleado1 deja el pedido Cliente27- P1 en la mesa de pedidos
+[12/08/2021 11:11:42] Cocinero1 coge el pedido Cliente2- P1 de la mesa de platos
+[12/08/2021 11:11:42] Cliente36 deja el pedido Cliente36- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente39 deja el pedido Cliente39- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado1 coge el pedido Cliente29- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente12 deja el pedido Cliente12- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado2 coge el pedido Cliente3- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Empleado1 deja el pedido Cliente1- P1 en la mesa de pedidos
+[12/08/2021 11:11:42] Cocinero3 coge el pedido Cliente1- P1 de la mesa de platos
+[12/08/2021 11:11:42] Empleado1 coge el pedido Cliente4- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente14 deja el pedido Cliente14- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cocinero1 Cocinado pedidoCliente10- P1
+[12/08/2021 11:11:42] Cocinero1 coge el pedido Cliente14- P1 de la mesa de platos
+[12/08/2021 11:11:42] Cliente11 deja el pedido Cliente11- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente5 deja el pedido Cliente5- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente10 deja el pedido Cliente10- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente37 deja el pedido Cliente37- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente8 deja el pedido Cliente8- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente4 deja el pedido Cliente4- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente13 deja el pedido Cliente13- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente3 deja el pedido Cliente3- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cocinero3 Cocinado pedidoCliente12- P1
+[12/08/2021 11:11:42] Cocinero3 coge el pedido Cliente15- P1 de la mesa de platos
+[12/08/2021 11:11:42] Cliente9 deja el pedido Cliente9- P2 en el mostrador de pedidos
+[12/08/2021 11:11:42] Empleado2 deja el pedido Cliente28- P1 en la mesa de pedidos
+[12/08/2021 11:11:42] Empleado2 coge el pedido Cliente30- P1 del mostrador de pedidos
+[12/08/2021 11:11:42] Cliente40 deja el pedido Cliente40- P1 en el mostrador de pedidos
+[12/08/2021 11:11:42] Cliente39 deja el pedido Cliente39- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente2 deja el pedido Cliente2- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado2 deja el pedido Cliente3- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Cocinero2 coge el pedido Cliente3- P1 de la mesa de platos
+[12/08/2021 11:11:43] Empleado2 coge el pedido Cliente5- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente1 deja el pedido Cliente1- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente15 deja el pedido Cliente15- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente7 deja el pedido Cliente7- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente14 deja el pedido Cliente14- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente6 deja el pedido Cliente6- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado1 deja el pedido Cliente29- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Cliente38 deja el pedido Cliente38- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado1 coge el pedido Cliente31- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente41 deja el pedido Cliente41- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado1 deja el pedido Cliente4- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Empleado1 coge el pedido Cliente6- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente16 deja el pedido Cliente16- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente12 deja el pedido Cliente12- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado2 deja el pedido Cliente30- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Empleado2 coge el pedido Cliente32- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente42 deja el pedido Cliente42- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado2 deja el pedido Cliente5- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Cliente17 deja el pedido Cliente17- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado2 coge el pedido Cliente9- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente15 deja el pedido Cliente15- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cliente40 deja el pedido Cliente40- P2 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cocinero2 Cocinado pedidoCliente13- P1
+[12/08/2021 11:11:43] Cocinero2 coge el pedido Cliente17- P1 de la mesa de platos
+[12/08/2021 11:11:43] Empleado1 deja el pedido Cliente31- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Empleado1 coge el pedido Cliente33- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente43 deja el pedido Cliente43- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado1 deja el pedido Cliente6- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Empleado1 coge el pedido Cliente7- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente18 deja el pedido Cliente18- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Empleado2 deja el pedido Cliente9- P1 en la mesa de pedidos
+[12/08/2021 11:11:43] Empleado2 coge el pedido Cliente10- P1 del mostrador de pedidos
+[12/08/2021 11:11:43] Cliente19 deja el pedido Cliente19- P1 en el mostrador de pedidos
+[12/08/2021 11:11:43] Cocinero1 Cocinado pedidoCliente2- P1
+[12/08/2021 11:11:43] Cocinero1 coge el pedido Cliente4- P1 de la mesa de platos
+[12/08/2021 11:11:44] Empleado2 deja el pedido Cliente32- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Cliente16 deja el pedido Cliente16- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cliente44 deja el pedido Cliente44- P1 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cocinero3 Cocinado pedidoCliente1- P1
+[12/08/2021 11:11:44] Empleado2 coge el pedido Cliente34- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Cocinero3 coge el pedido Cliente5- P1 de la mesa de platos
+[12/08/2021 11:11:44] Cliente41 deja el pedido Cliente41- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Empleado1 deja el pedido Cliente33- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Empleado1 coge el pedido Cliente35- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Cliente45 deja el pedido Cliente45- P1 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cliente17 deja el pedido Cliente17- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cocinero1 Cocinado pedidoCliente14- P1
+[12/08/2021 11:11:44] Cocinero1 coge el pedido Cliente16- P1 de la mesa de platos
+[12/08/2021 11:11:44] Empleado1 deja el pedido Cliente7- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Empleado1 coge el pedido Cliente8- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Cliente20 deja el pedido Cliente20- P1 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cliente18 deja el pedido Cliente18- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cliente42 deja el pedido Cliente42- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Empleado2 deja el pedido Cliente34- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Cliente46 deja el pedido Cliente46- P1 en el mostrador de pedidos
+[12/08/2021 11:11:44] Empleado2 coge el pedido Cliente36- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Empleado2 deja el pedido Cliente10- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Cocinero2 Cocinado pedidoCliente3- P1
+[12/08/2021 11:11:44] Cocinero2 coge el pedido Cliente6- P1 de la mesa de platos
+[12/08/2021 11:11:44] Cliente21 deja el pedido Cliente21- P1 en el mostrador de pedidos
+[12/08/2021 11:11:44] Empleado2 coge el pedido Cliente11- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Cliente19 deja el pedido Cliente19- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cocinero3 Cocinado pedidoCliente15- P1
+[12/08/2021 11:11:44] Cocinero3 coge el pedido Cliente18- P1 de la mesa de platos
+[12/08/2021 11:11:44] Cliente43 deja el pedido Cliente43- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Cliente44 deja el pedido Cliente44- P2 en el mostrador de pedidos
+[12/08/2021 11:11:44] Empleado1 deja el pedido Cliente35- P1 en la mesa de pedidos
+[12/08/2021 11:11:44] Empleado1 coge el pedido Cliente37- P1 del mostrador de pedidos
+[12/08/2021 11:11:44] Cliente47 deja el pedido Cliente47- P1 en el mostrador de pedidos
+[12/08/2021 11:11:45] Cliente45 deja el pedido Cliente45- P2 en el mostrador de pedidos
+[12/08/2021 11:11:45] Empleado2 deja el pedido Cliente36- P1 en la mesa de pedidos
+[12/08/2021 11:11:45] Cliente48 deja el pedido Cliente48- P1 en el mostrador de pedidos
+[12/08/2021 11:11:45] Empleado2 coge el pedido Cliente38- P1 del mostrador de pedidos
+[12/08/2021 11:11:45] Empleado1 deja el pedido Cliente37- P1 en la mesa de pedidos
+[12/08/2021 11:11:45] Cliente49 deja el pedido Cliente49- P1 en el mostrador de pedidos
+[12/08/2021 11:11:45] Empleado1 coge el pedido Cliente39- P1 del mostrador de pedidos
+[12/08/2021 11:11:45] Cliente46 deja el pedido Cliente46- P2 en el mostrador de pedidos
+[12/08/2021 11:11:45] Cliente47 deja el pedido Cliente47- P2 en el mostrador de pedidos
+[12/08/2021 11:11:45] Cocinero2 Cocinado pedidoCliente17- P1
+[12/08/2021 11:11:45] Cocinero2 coge el pedido Cliente19- P1 de la mesa de platos
+[12/08/2021 11:11:45] Empleado2 deja el pedido Cliente38- P1 en la mesa de pedidos
+[12/08/2021 11:11:45] Empleado2 coge el pedido Cliente40- P1 del mostrador de pedidos
+[12/08/2021 11:11:45] Cliente50 deja el pedido Cliente50- P1 en el mostrador de pedidos
+[12/08/2021 11:11:45] Empleado1 deja el pedido Cliente39- P1 en la mesa de pedidos
+[12/08/2021 11:11:45] Cliente51 deja el pedido Cliente51- P1 en el mostrador de pedidos
+[12/08/2021 11:11:45] Empleado1 coge el pedido Cliente41- P1 del mostrador de pedidos
+[12/08/2021 11:11:45] Cliente48 deja el pedido Cliente48- P2 en el mostrador de pedidos
+[12/08/2021 11:11:45] Cocinero1 Cocinado pedidoCliente16- P1
+[12/08/2021 11:11:45] Cocinero1 coge el pedido Cliente20- P1 de la mesa de platos
+[12/08/2021 11:11:46] Empleado2 deja el pedido Cliente40- P1 en la mesa de pedidos
+[12/08/2021 11:11:46] Empleado2 coge el pedido Cliente42- P1 del mostrador de pedidos
+[12/08/2021 11:11:46] Cliente52 deja el pedido Cliente52- P1 en el mostrador de pedidos
+[12/08/2021 11:11:46] Cliente49 deja el pedido Cliente49- P2 en el mostrador de pedidos
+[12/08/2021 11:11:46] Cliente50 deja el pedido Cliente50- P2 en el mostrador de pedidos
+[12/08/2021 11:11:46] Cocinero3 Cocinado pedidoCliente18- P1
+[12/08/2021 11:11:46] Cocinero3 coge el pedido Cliente21- P1 de la mesa de platos
+[12/08/2021 11:11:46] Empleado2 deja el pedido Cliente42- P1 en la mesa de pedidos
+[12/08/2021 11:11:46] Cliente53 deja el pedido Cliente53- P1 en el mostrador de pedidos
+[12/08/2021 11:11:46] Empleado2 coge el pedido Cliente43- P1 del mostrador de pedidos
+[12/08/2021 11:11:46] Cliente51 deja el pedido Cliente51- P2 en el mostrador de pedidos
+[12/08/2021 11:11:46] Empleado1 deja el pedido Cliente41- P1 en la mesa de pedidos
+[12/08/2021 11:11:46] Cliente52 deja el pedido Cliente52- P2 en el mostrador de pedidos
+[12/08/2021 11:11:46] Empleado2 deja el pedido Cliente43- P1 en la mesa de pedidos
+[12/08/2021 11:11:47] Cliente53 deja el pedido Cliente53- P2 en el mostrador de pedidos
+[12/08/2021 11:11:47] Cocinero2 Cocinado pedidoCliente19- P1
+[12/08/2021 11:11:47] Cocinero2 coge el pedido Cliente22- P1 de la mesa de platos
+[12/08/2021 11:11:47] Empleado1 coge el pedido Cliente44- P1 del mostrador de pedidos
+[12/08/2021 11:11:47] Cliente54 deja el pedido Cliente54- P1 en el mostrador de pedidos
+[12/08/2021 11:11:47] Cocinero1 Cocinado pedidoCliente20- P1
+[12/08/2021 11:11:47] Cocinero1 coge el pedido Cliente23- P1 de la mesa de platos
+[12/08/2021 11:11:47] Empleado2 coge el pedido Cliente45- P1 del mostrador de pedidos
+[12/08/2021 11:11:47] Cliente55 deja el pedido Cliente55- P1 en el mostrador de pedidos
+[12/08/2021 11:11:47] Cocinero3 Cocinado pedidoCliente21- P1
+[12/08/2021 11:11:47] Cocinero3 coge el pedido Cliente25- P1 de la mesa de platos
+[12/08/2021 11:11:48] Cliente54 deja el pedido Cliente54- P2 en el mostrador de pedidos
+[12/08/2021 11:11:48] Empleado1 deja el pedido Cliente44- P1 en la mesa de pedidos
+[12/08/2021 11:11:48] Empleado1 coge el pedido Cliente46- P1 del mostrador de pedidos
+[12/08/2021 11:11:48] Cliente56 deja el pedido Cliente56- P1 en el mostrador de pedidos
+[12/08/2021 11:11:48] Cliente55 deja el pedido Cliente55- P2 en el mostrador de pedidos
+[12/08/2021 11:11:48] Empleado2 deja el pedido Cliente45- P1 en la mesa de pedidos
+[12/08/2021 11:11:48] Empleado1 deja el pedido Cliente46- P1 en la mesa de pedidos
+[12/08/2021 11:11:48] Cliente56 deja el pedido Cliente56- P2 en el mostrador de pedidos
+[12/08/2021 11:11:49] Cocinero2 Cocinado pedidoCliente22- P1
+[12/08/2021 11:11:49] Cocinero2 coge el pedido Cliente24- P1 de la mesa de platos
+[12/08/2021 11:11:49] Empleado2 coge el pedido Cliente47- P1 del mostrador de pedidos
+[12/08/2021 11:11:49] Cliente57 deja el pedido Cliente57- P1 en el mostrador de pedidos
+[12/08/2021 11:11:49] Cocinero1 Cocinado pedidoCliente23- P1
+[12/08/2021 11:11:49] Cocinero1 coge el pedido Cliente26- P1 de la mesa de platos
+[12/08/2021 11:11:49] Empleado1 coge el pedido Cliente48- P1 del mostrador de pedidos
+[12/08/2021 11:11:49] Cliente58 deja el pedido Cliente58- P1 en el mostrador de pedidos
+[12/08/2021 11:11:49] Cocinero3 Cocinado pedidoCliente25- P1
+[12/08/2021 11:11:49] Cocinero3 coge el pedido Cliente27- P1 de la mesa de platos
+[12/08/2021 11:11:49] Empleado2 deja el pedido Cliente47- P1 en la mesa de pedidos
+[12/08/2021 11:11:49] Empleado2 coge el pedido Cliente49- P1 del mostrador de pedidos
+[12/08/2021 11:11:49] Cliente59 deja el pedido Cliente59- P1 en el mostrador de pedidos
+[12/08/2021 11:11:49] Cliente57 deja el pedido Cliente57- P2 en el mostrador de pedidos
+[12/08/2021 11:11:49] Empleado1 deja el pedido Cliente48- P1 en la mesa de pedidos
+[12/08/2021 11:11:50] Cliente58 deja el pedido Cliente58- P2 en el mostrador de pedidos
+[12/08/2021 11:11:50] Empleado2 deja el pedido Cliente49- P1 en la mesa de pedidos
+[12/08/2021 11:11:50] Cliente59 deja el pedido Cliente59- P2 en el mostrador de pedidos
+[12/08/2021 11:11:50] Cocinero2 Cocinado pedidoCliente24- P1
+[12/08/2021 11:11:50] Cocinero2 coge el pedido Cliente28- P1 de la mesa de platos
+[12/08/2021 11:11:50] Cliente60 deja el pedido Cliente60- P1 en el mostrador de pedidos
+[12/08/2021 11:11:50] Empleado1 coge el pedido Cliente50- P1 del mostrador de pedidos
+[12/08/2021 11:11:51] Cocinero1 Cocinado pedidoCliente26- P1
+[12/08/2021 11:11:51] Cocinero1 coge el pedido Cliente29- P1 de la mesa de platos
+[12/08/2021 11:11:51] Empleado2 coge el pedido Cliente51- P1 del mostrador de pedidos
+[12/08/2021 11:11:51] Cliente61 deja el pedido Cliente61- P1 en el mostrador de pedidos
+[12/08/2021 11:11:51] Empleado1 deja el pedido Cliente50- P1 en la mesa de pedidos
+[12/08/2021 11:11:51] Cliente60 deja el pedido Cliente60- P2 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente11 deja el pedido Cliente11- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente3 deja el pedido Cliente3- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Empleado1 coge el pedido Cliente2- P1 del mostrador de pedidos
+[12/08/2021 17:58:29] Cliente1 deja el pedido Cliente1- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente10 deja el pedido Cliente10- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente8 deja el pedido Cliente8- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente5 deja el pedido Cliente5- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente12 deja el pedido Cliente12- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente2 deja el pedido Cliente2- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente7 deja el pedido Cliente7- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente4 deja el pedido Cliente4- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente6 deja el pedido Cliente6- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Cliente9 deja el pedido Cliente9- P1 en el mostrador de pedidos
+[12/08/2021 17:58:29] Empleado2 coge el pedido Cliente1- P1 del mostrador de pedidos
+[12/08/2021 17:58:30] Cliente10 deja el pedido Cliente10- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado1 deja el pedido Cliente2- P1 en la mesa de pedidos
+[12/08/2021 17:58:30] Cocinero1 coge el pedido Cliente2- P1 de la mesa de platos
+[12/08/2021 17:58:30] Cliente13 deja el pedido Cliente13- P1 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado1 coge el pedido Cliente3- P1 del mostrador de pedidos
+[12/08/2021 17:58:30] Empleado2 deja el pedido Cliente1- P1 en la mesa de pedidos
+[12/08/2021 17:58:30] Cocinero2 coge el pedido Cliente1- P1 de la mesa de platos
+[12/08/2021 17:58:30] Cliente14 deja el pedido Cliente14- P1 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado2 coge el pedido Cliente4- P1 del mostrador de pedidos
+[12/08/2021 17:58:30] Cliente6 deja el pedido Cliente6- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente5 deja el pedido Cliente5- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente12 deja el pedido Cliente12- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente2 deja el pedido Cliente2- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente11 deja el pedido Cliente11- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente8 deja el pedido Cliente8- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente1 deja el pedido Cliente1- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente7 deja el pedido Cliente7- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente3 deja el pedido Cliente3- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente9 deja el pedido Cliente9- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado1 deja el pedido Cliente3- P1 en la mesa de pedidos
+[12/08/2021 17:58:30] Cocinero3 coge el pedido Cliente3- P1 de la mesa de platos
+[12/08/2021 17:58:30] Cliente15 deja el pedido Cliente15- P1 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado1 coge el pedido Cliente5- P1 del mostrador de pedidos
+[12/08/2021 17:58:30] Cliente4 deja el pedido Cliente4- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Cliente14 deja el pedido Cliente14- P2 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado2 deja el pedido Cliente4- P1 en la mesa de pedidos
+[12/08/2021 17:58:30] Cliente16 deja el pedido Cliente16- P1 en el mostrador de pedidos
+[12/08/2021 17:58:30] Empleado2 coge el pedido Cliente6- P1 del mostrador de pedidos
+[12/08/2021 17:58:31] Cliente13 deja el pedido Cliente13- P2 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado1 deja el pedido Cliente5- P1 en la mesa de pedidos
+[12/08/2021 17:58:31] Cliente17 deja el pedido Cliente17- P1 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado1 coge el pedido Cliente7- P1 del mostrador de pedidos
+[12/08/2021 17:58:31] Empleado2 deja el pedido Cliente6- P1 en la mesa de pedidos
+[12/08/2021 17:58:31] Cliente18 deja el pedido Cliente18- P1 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado2 coge el pedido Cliente8- P1 del mostrador de pedidos
+[12/08/2021 17:58:31] Cliente16 deja el pedido Cliente16- P2 en el mostrador de pedidos
+[12/08/2021 17:58:31] Cliente15 deja el pedido Cliente15- P2 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado2 deja el pedido Cliente8- P1 en la mesa de pedidos
+[12/08/2021 17:58:31] Cliente19 deja el pedido Cliente19- P1 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado2 coge el pedido Cliente9- P1 del mostrador de pedidos
+[12/08/2021 17:58:31] Empleado1 deja el pedido Cliente7- P1 en la mesa de pedidos
+[12/08/2021 17:58:31] Cliente20 deja el pedido Cliente20- P1 en el mostrador de pedidos
+[12/08/2021 17:58:31] Empleado1 coge el pedido Cliente10- P1 del mostrador de pedidos
+[12/08/2021 17:58:31] Cliente18 deja el pedido Cliente18- P2 en el mostrador de pedidos
+[12/08/2021 17:58:31] Cliente17 deja el pedido Cliente17- P2 en el mostrador de pedidos
+[12/08/2021 17:58:32] Cocinero1 Cocinado pedidoCliente2- P1
+[12/08/2021 17:58:32] Cocinero1 coge el pedido Cliente4- P1 de la mesa de platos
+[12/08/2021 17:58:32] Empleado2 deja el pedido Cliente9- P1 en la mesa de pedidos
+[12/08/2021 17:58:32] Cliente21 deja el pedido Cliente21- P1 en el mostrador de pedidos
+[12/08/2021 17:58:32] Empleado2 coge el pedido Cliente11- P1 del mostrador de pedidos
+[12/08/2021 17:58:32] Cocinero2 Cocinado pedidoCliente1- P1
+[12/08/2021 17:58:32] Cocinero2 coge el pedido Cliente5- P1 de la mesa de platos
+[12/08/2021 17:58:32] Empleado1 deja el pedido Cliente10- P1 en la mesa de pedidos
+[12/08/2021 17:58:32] Cliente22 deja el pedido Cliente22- P1 en el mostrador de pedidos
+[12/08/2021 17:58:32] Empleado1 coge el pedido Cliente12- P1 del mostrador de pedidos
+[12/08/2021 17:58:32] Cocinero3 Cocinado pedidoCliente3- P1
+[12/08/2021 17:58:32] Cocinero3 coge el pedido Cliente6- P1 de la mesa de platos
+[12/08/2021 17:58:32] Cliente20 deja el pedido Cliente20- P2 en el mostrador de pedidos
+[12/08/2021 17:58:32] Empleado2 deja el pedido Cliente11- P1 en la mesa de pedidos
+[12/08/2021 17:58:32] Empleado2 coge el pedido Cliente13- P1 del mostrador de pedidos
+[12/08/2021 17:58:32] Cliente23 deja el pedido Cliente23- P1 en el mostrador de pedidos
+[12/08/2021 17:58:32] Cliente19 deja el pedido Cliente19- P2 en el mostrador de pedidos
+[12/08/2021 17:58:32] Cliente21 deja el pedido Cliente21- P2 en el mostrador de pedidos
+[12/08/2021 17:58:32] Empleado1 deja el pedido Cliente12- P1 en la mesa de pedidos
+[12/08/2021 17:58:32] Cliente24 deja el pedido Cliente24- P1 en el mostrador de pedidos
+[12/08/2021 17:58:32] Empleado1 coge el pedido Cliente14- P1 del mostrador de pedidos
+[12/08/2021 17:58:32] Cliente22 deja el pedido Cliente22- P2 en el mostrador de pedidos
+[12/08/2021 17:58:33] Empleado2 deja el pedido Cliente13- P1 en la mesa de pedidos
+[12/08/2021 17:58:33] Cliente25 deja el pedido Cliente25- P1 en el mostrador de pedidos
+[12/08/2021 17:58:33] Empleado2 coge el pedido Cliente15- P1 del mostrador de pedidos
+[12/08/2021 17:58:33] Empleado1 deja el pedido Cliente14- P1 en la mesa de pedidos
+[12/08/2021 17:58:33] Empleado1 coge el pedido Cliente16- P1 del mostrador de pedidos
+[12/08/2021 17:58:33] Cliente26 deja el pedido Cliente26- P1 en el mostrador de pedidos
+[12/08/2021 17:58:33] Cliente23 deja el pedido Cliente23- P2 en el mostrador de pedidos
+[12/08/2021 17:58:33] Empleado2 deja el pedido Cliente15- P1 en la mesa de pedidos
+[12/08/2021 17:58:33] Cliente27 deja el pedido Cliente27- P1 en el mostrador de pedidos
+[12/08/2021 17:58:33] Empleado2 coge el pedido Cliente17- P1 del mostrador de pedidos
+[12/08/2021 17:58:33] Cliente24 deja el pedido Cliente24- P2 en el mostrador de pedidos
+[12/08/2021 17:58:33] Cocinero1 Cocinado pedidoCliente4- P1
+[12/08/2021 17:58:33] Cocinero1 coge el pedido Cliente8- P1 de la mesa de platos
+[12/08/2021 17:58:33] Cocinero2 Cocinado pedidoCliente5- P1
+[12/08/2021 17:58:33] Cocinero2 coge el pedido Cliente7- P1 de la mesa de platos
+[12/08/2021 17:58:33] Cocinero3 Cocinado pedidoCliente6- P1
+[12/08/2021 17:58:33] Cocinero3 coge el pedido Cliente9- P1 de la mesa de platos
+[12/08/2021 17:58:33] Cliente25 deja el pedido Cliente25- P2 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado1 deja el pedido Cliente16- P1 en la mesa de pedidos
+[12/08/2021 17:58:34] Cliente28 deja el pedido Cliente28- P1 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado1 coge el pedido Cliente18- P1 del mostrador de pedidos
+[12/08/2021 17:58:34] Cliente26 deja el pedido Cliente26- P2 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado2 deja el pedido Cliente17- P1 en la mesa de pedidos
+[12/08/2021 17:58:34] Cliente29 deja el pedido Cliente29- P1 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado2 coge el pedido Cliente19- P1 del mostrador de pedidos
+[12/08/2021 17:58:34] Cliente27 deja el pedido Cliente27- P2 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado1 deja el pedido Cliente18- P1 en la mesa de pedidos
+[12/08/2021 17:58:34] Empleado1 coge el pedido Cliente20- P1 del mostrador de pedidos
+[12/08/2021 17:58:34] Cliente30 deja el pedido Cliente30- P1 en el mostrador de pedidos
+[12/08/2021 17:58:34] Cliente28 deja el pedido Cliente28- P2 en el mostrador de pedidos
+[12/08/2021 17:58:34] Empleado2 deja el pedido Cliente19- P1 en la mesa de pedidos
+[12/08/2021 17:58:34] Empleado2 coge el pedido Cliente21- P1 del mostrador de pedidos
+[12/08/2021 17:58:34] Cliente31 deja el pedido Cliente31- P1 en el mostrador de pedidos
+[12/08/2021 17:58:35] Cliente29 deja el pedido Cliente29- P2 en el mostrador de pedidos
+[12/08/2021 17:58:35] Empleado1 deja el pedido Cliente20- P1 en la mesa de pedidos
+[12/08/2021 17:58:35] Empleado1 coge el pedido Cliente22- P1 del mostrador de pedidos
+[12/08/2021 17:58:35] Cliente32 deja el pedido Cliente32- P1 en el mostrador de pedidos
+[12/08/2021 17:58:35] Cliente31 deja el pedido Cliente31- P2 en el mostrador de pedidos
+[12/08/2021 17:58:35] Empleado2 deja el pedido Cliente21- P1 en la mesa de pedidos
+[12/08/2021 17:58:35] Cliente33 deja el pedido Cliente33- P1 en el mostrador de pedidos
+[12/08/2021 17:58:35] Empleado2 coge el pedido Cliente23- P1 del mostrador de pedidos
+[12/08/2021 17:58:35] Cliente30 deja el pedido Cliente30- P2 en el mostrador de pedidos
+[12/08/2021 17:58:35] Cocinero1 Cocinado pedidoCliente8- P1
+[12/08/2021 17:58:35] Cocinero1 coge el pedido Cliente10- P1 de la mesa de platos
+[12/08/2021 17:58:35] Cocinero3 Cocinado pedidoCliente9- P1
+[12/08/2021 17:58:35] Cocinero3 coge el pedido Cliente11- P1 de la mesa de platos
+[12/08/2021 17:58:35] Cocinero2 Cocinado pedidoCliente7- P1
+[12/08/2021 17:58:35] Cocinero2 coge el pedido Cliente12- P1 de la mesa de platos
+[12/08/2021 17:58:35] Empleado1 deja el pedido Cliente22- P1 en la mesa de pedidos
+[12/08/2021 17:58:35] Cliente34 deja el pedido Cliente34- P1 en el mostrador de pedidos
+[12/08/2021 17:58:35] Empleado1 coge el pedido Cliente24- P1 del mostrador de pedidos
+[12/08/2021 17:58:35] Cliente32 deja el pedido Cliente32- P2 en el mostrador de pedidos
+[12/08/2021 17:58:36] Empleado2 deja el pedido Cliente23- P1 en la mesa de pedidos
+[12/08/2021 17:58:36] Cliente35 deja el pedido Cliente35- P1 en el mostrador de pedidos
+[12/08/2021 17:58:36] Empleado2 coge el pedido Cliente25- P1 del mostrador de pedidos
+[12/08/2021 17:58:36] Empleado1 deja el pedido Cliente24- P1 en la mesa de pedidos
+[12/08/2021 17:58:36] Empleado1 coge el pedido Cliente26- P1 del mostrador de pedidos
+[12/08/2021 17:58:36] Cliente36 deja el pedido Cliente36- P1 en el mostrador de pedidos
+[12/08/2021 17:58:36] Cliente33 deja el pedido Cliente33- P2 en el mostrador de pedidos
+[12/08/2021 17:58:36] Cliente34 deja el pedido Cliente34- P2 en el mostrador de pedidos
+[12/08/2021 17:58:36] Empleado2 deja el pedido Cliente25- P1 en la mesa de pedidos
+[12/08/2021 17:58:36] Empleado2 coge el pedido Cliente27- P1 del mostrador de pedidos
+[12/08/2021 17:58:36] Cliente37 deja el pedido Cliente37- P1 en el mostrador de pedidos
+[12/08/2021 17:58:36] Empleado1 deja el pedido Cliente26- P1 en la mesa de pedidos
+[12/08/2021 17:58:36] Cliente38 deja el pedido Cliente38- P1 en el mostrador de pedidos
+[12/08/2021 17:58:36] Empleado1 coge el pedido Cliente28- P1 del mostrador de pedidos
+[12/08/2021 17:58:37] Cliente36 deja el pedido Cliente36- P2 en el mostrador de pedidos
+[12/08/2021 17:58:37] Cliente35 deja el pedido Cliente35- P2 en el mostrador de pedidos
+[12/08/2021 17:58:37] Cocinero1 Cocinado pedidoCliente10- P1
+[12/08/2021 17:58:37] Cocinero1 coge el pedido Cliente13- P1 de la mesa de platos
+[12/08/2021 17:58:37] Empleado2 deja el pedido Cliente27- P1 en la mesa de pedidos
+[12/08/2021 17:58:37] Cliente39 deja el pedido Cliente39- P1 en el mostrador de pedidos
+[12/08/2021 17:58:37] Empleado2 coge el pedido Cliente29- P1 del mostrador de pedidos
+[12/08/2021 17:58:37] Cocinero2 Cocinado pedidoCliente12- P1
+[12/08/2021 17:58:37] Cocinero2 coge el pedido Cliente14- P1 de la mesa de platos
+[12/08/2021 17:58:37] Cliente37 deja el pedido Cliente37- P2 en el mostrador de pedidos
+[12/08/2021 17:58:37] Cocinero3 Cocinado pedidoCliente11- P1
+[12/08/2021 17:58:37] Cocinero3 coge el pedido Cliente15- P1 de la mesa de platos
+[12/08/2021 17:58:37] Empleado1 deja el pedido Cliente28- P1 en la mesa de pedidos
+[12/08/2021 17:58:37] Cliente40 deja el pedido Cliente40- P1 en el mostrador de pedidos
+[12/08/2021 17:58:37] Empleado1 coge el pedido Cliente30- P1 del mostrador de pedidos
+[12/08/2021 17:58:37] Empleado2 deja el pedido Cliente29- P1 en la mesa de pedidos
+[12/08/2021 17:58:37] Empleado2 coge el pedido Cliente31- P1 del mostrador de pedidos
+[12/08/2021 17:58:37] Cliente41 deja el pedido Cliente41- P1 en el mostrador de pedidos
+[12/08/2021 17:58:37] Cliente39 deja el pedido Cliente39- P2 en el mostrador de pedidos
+[12/08/2021 17:58:37] Empleado1 deja el pedido Cliente30- P1 en la mesa de pedidos
+[12/08/2021 17:58:37] Empleado1 coge el pedido Cliente32- P1 del mostrador de pedidos
+[12/08/2021 17:58:37] Cliente42 deja el pedido Cliente42- P1 en el mostrador de pedidos
+[12/08/2021 17:58:37] Cliente38 deja el pedido Cliente38- P2 en el mostrador de pedidos
+[12/08/2021 17:58:38] Empleado2 deja el pedido Cliente31- P1 en la mesa de pedidos
+[12/08/2021 17:58:38] Cliente43 deja el pedido Cliente43- P1 en el mostrador de pedidos
+[12/08/2021 17:58:38] Empleado2 coge el pedido Cliente33- P1 del mostrador de pedidos
+[12/08/2021 17:58:38] Cliente41 deja el pedido Cliente41- P2 en el mostrador de pedidos
+[12/08/2021 17:58:38] Cliente40 deja el pedido Cliente40- P2 en el mostrador de pedidos
+[12/08/2021 17:58:38] Empleado1 deja el pedido Cliente32- P1 en la mesa de pedidos
+[12/08/2021 17:58:38] Empleado1 coge el pedido Cliente34- P1 del mostrador de pedidos
+[12/08/2021 17:58:38] Cliente44 deja el pedido Cliente44- P1 en el mostrador de pedidos
+[12/08/2021 17:58:38] Cliente42 deja el pedido Cliente42- P2 en el mostrador de pedidos
+[12/08/2021 17:58:38] Empleado2 deja el pedido Cliente33- P1 en la mesa de pedidos
+[12/08/2021 17:58:38] Cliente45 deja el pedido Cliente45- P1 en el mostrador de pedidos
+[12/08/2021 17:58:38] Empleado2 coge el pedido Cliente35- P1 del mostrador de pedidos
+[12/08/2021 17:58:38] Cocinero1 Cocinado pedidoCliente13- P1
+[12/08/2021 17:58:38] Cocinero1 coge el pedido Cliente16- P1 de la mesa de platos
+[12/08/2021 17:58:38] Empleado1 deja el pedido Cliente34- P1 en la mesa de pedidos
+[12/08/2021 17:58:38] Empleado1 coge el pedido Cliente36- P1 del mostrador de pedidos
+[12/08/2021 17:58:38] Cliente46 deja el pedido Cliente46- P1 en el mostrador de pedidos
+[12/08/2021 17:58:38] Cocinero2 Cocinado pedidoCliente14- P1
+[12/08/2021 17:58:38] Cocinero2 coge el pedido Cliente17- P1 de la mesa de platos
+[12/08/2021 17:58:38] Cliente43 deja el pedido Cliente43- P2 en el mostrador de pedidos
+[12/08/2021 17:58:38] Cliente44 deja el pedido Cliente44- P2 en el mostrador de pedidos
+[12/08/2021 17:58:39] Cocinero3 Cocinado pedidoCliente15- P1
+[12/08/2021 17:58:39] Cocinero3 coge el pedido Cliente18- P1 de la mesa de platos
+[12/08/2021 17:58:39] Empleado2 deja el pedido Cliente35- P1 en la mesa de pedidos
+[12/08/2021 17:58:39] Empleado2 coge el pedido Cliente37- P1 del mostrador de pedidos
+[12/08/2021 17:58:39] Cliente47 deja el pedido Cliente47- P1 en el mostrador de pedidos
+[12/08/2021 17:58:39] Cliente45 deja el pedido Cliente45- P2 en el mostrador de pedidos
+[12/08/2021 17:58:39] Cliente46 deja el pedido Cliente46- P2 en el mostrador de pedidos
+[12/08/2021 17:58:39] Empleado1 deja el pedido Cliente36- P1 en la mesa de pedidos
+[12/08/2021 17:58:39] Empleado1 coge el pedido Cliente38- P1 del mostrador de pedidos
+[12/08/2021 17:58:39] Cliente48 deja el pedido Cliente48- P1 en el mostrador de pedidos
+[12/08/2021 17:58:39] Empleado2 deja el pedido Cliente37- P1 en la mesa de pedidos
+[12/08/2021 17:58:39] Cliente49 deja el pedido Cliente49- P1 en el mostrador de pedidos
+[12/08/2021 17:58:39] Empleado2 coge el pedido Cliente39- P1 del mostrador de pedidos
+[12/08/2021 17:58:39] Empleado1 deja el pedido Cliente38- P1 en la mesa de pedidos
+[12/08/2021 17:58:39] Cliente50 deja el pedido Cliente50- P1 en el mostrador de pedidos
+[12/08/2021 17:58:39] Empleado1 coge el pedido Cliente40- P1 del mostrador de pedidos
+[12/08/2021 17:58:40] Cliente47 deja el pedido Cliente47- P2 en el mostrador de pedidos
+[12/08/2021 17:58:40] Empleado2 deja el pedido Cliente39- P1 en la mesa de pedidos
+[12/08/2021 17:58:40] Cliente48 deja el pedido Cliente48- P2 en el mostrador de pedidos
+[12/08/2021 17:58:40] Empleado1 deja el pedido Cliente40- P1 en la mesa de pedidos
+[12/08/2021 17:58:40] Cliente49 deja el pedido Cliente49- P2 en el mostrador de pedidos
+[12/08/2021 17:58:40] Cocinero2 Cocinado pedidoCliente17- P1
+[12/08/2021 17:58:40] Cocinero2 coge el pedido Cliente19- P1 de la mesa de platos
+[12/08/2021 17:58:40] Cliente51 deja el pedido Cliente51- P1 en el mostrador de pedidos
+[12/08/2021 17:58:40] Empleado2 coge el pedido Cliente41- P1 del mostrador de pedidos
+[12/08/2021 17:58:40] Cocinero1 Cocinado pedidoCliente16- P1
+[12/08/2021 17:58:40] Cocinero1 coge el pedido Cliente20- P1 de la mesa de platos
+[12/08/2021 17:58:40] Cliente52 deja el pedido Cliente52- P1 en el mostrador de pedidos
+[12/08/2021 17:58:40] Empleado1 coge el pedido Cliente42- P1 del mostrador de pedidos
+[12/08/2021 17:58:40] Cliente50 deja el pedido Cliente50- P2 en el mostrador de pedidos
+[12/08/2021 17:58:40] Empleado2 deja el pedido Cliente41- P1 en la mesa de pedidos
+[12/08/2021 17:58:41] Cocinero3 Cocinado pedidoCliente18- P1
+[12/08/2021 17:58:41] Cocinero3 coge el pedido Cliente21- P1 de la mesa de platos
+[12/08/2021 17:58:41] Empleado2 coge el pedido Cliente43- P1 del mostrador de pedidos
+[12/08/2021 17:58:41] Cliente53 deja el pedido Cliente53- P1 en el mostrador de pedidos
+[12/08/2021 17:58:41] Empleado1 deja el pedido Cliente42- P1 en la mesa de pedidos
+[12/08/2021 17:58:41] Cliente51 deja el pedido Cliente51- P2 en el mostrador de pedidos
+[12/08/2021 17:58:41] Cliente52 deja el pedido Cliente52- P2 en el mostrador de pedidos
+[12/08/2021 17:58:41] Empleado2 deja el pedido Cliente43- P1 en la mesa de pedidos
+[12/08/2021 17:58:41] Cliente53 deja el pedido Cliente53- P2 en el mostrador de pedidos
+[12/08/2021 17:58:42] Cocinero2 Cocinado pedidoCliente19- P1
+[12/08/2021 17:58:42] Cocinero2 coge el pedido Cliente22- P1 de la mesa de platos
+[12/08/2021 17:58:42] Cocinero1 Cocinado pedidoCliente20- P1
+[12/08/2021 17:58:42] Cocinero1 coge el pedido Cliente23- P1 de la mesa de platos
+[12/08/2021 17:58:42] Empleado1 coge el pedido Cliente44- P1 del mostrador de pedidos
+[12/08/2021 17:58:42] Cliente54 deja el pedido Cliente54- P1 en el mostrador de pedidos
+[12/08/2021 17:58:42] Cliente55 deja el pedido Cliente55- P1 en el mostrador de pedidos
+[12/08/2021 17:58:42] Empleado2 coge el pedido Cliente45- P1 del mostrador de pedidos
+[12/08/2021 17:58:42] Cocinero3 Cocinado pedidoCliente21- P1
+[12/08/2021 17:58:42] Cocinero3 coge el pedido Cliente24- P1 de la mesa de platos
+[12/08/2021 17:58:42] Empleado1 deja el pedido Cliente44- P1 en la mesa de pedidos
+[12/08/2021 17:58:42] Empleado1 coge el pedido Cliente46- P1 del mostrador de pedidos
+[12/08/2021 17:58:42] Cliente56 deja el pedido Cliente56- P1 en el mostrador de pedidos
+[12/08/2021 17:58:42] Cliente55 deja el pedido Cliente55- P2 en el mostrador de pedidos
+[12/08/2021 17:58:42] Empleado2 deja el pedido Cliente45- P1 en la mesa de pedidos
+[12/08/2021 17:58:42] Cliente54 deja el pedido Cliente54- P2 en el mostrador de pedidos
+[12/08/2021 17:58:43] Empleado1 deja el pedido Cliente46- P1 en la mesa de pedidos
+[12/08/2021 17:58:43] Cliente56 deja el pedido Cliente56- P2 en el mostrador de pedidos
+[12/08/2021 17:58:43] Cocinero1 Cocinado pedidoCliente23- P1
+[12/08/2021 17:58:43] Cocinero1 coge el pedido Cliente25- P1 de la mesa de platos
+[12/08/2021 17:58:43] Empleado2 coge el pedido Cliente47- P1 del mostrador de pedidos
+[12/08/2021 17:58:43] Cliente57 deja el pedido Cliente57- P1 en el mostrador de pedidos
+[12/08/2021 17:58:44] Cocinero2 Cocinado pedidoCliente22- P1
+[12/08/2021 17:58:44] Cocinero2 coge el pedido Cliente26- P1 de la mesa de platos
+[12/08/2021 17:58:44] Empleado1 coge el pedido Cliente48- P1 del mostrador de pedidos
+[12/08/2021 17:58:44] Cliente58 deja el pedido Cliente58- P1 en el mostrador de pedidos
+[12/08/2021 17:58:44] Cocinero3 Cocinado pedidoCliente24- P1
+[12/08/2021 17:58:44] Cocinero3 coge el pedido Cliente27- P1 de la mesa de platos
+[12/08/2021 17:58:44] Empleado2 deja el pedido Cliente47- P1 en la mesa de pedidos
+[12/08/2021 17:58:44] Empleado2 coge el pedido Cliente49- P1 del mostrador de pedidos
+[12/08/2021 17:58:44] Cliente59 deja el pedido Cliente59- P1 en el mostrador de pedidos
+[12/08/2021 17:58:44] Cliente57 deja el pedido Cliente57- P2 en el mostrador de pedidos
+[12/08/2021 17:58:44] Empleado1 deja el pedido Cliente48- P1 en la mesa de pedidos
+[12/08/2021 17:58:44] Cliente58 deja el pedido Cliente58- P2 en el mostrador de pedidos
+[12/08/2021 17:58:44] Empleado2 deja el pedido Cliente49- P1 en la mesa de pedidos
+[12/08/2021 17:58:45] Cliente59 deja el pedido Cliente59- P2 en el mostrador de pedidos
+[12/08/2021 17:58:45] Cocinero1 Cocinado pedidoCliente25- P1
+[12/08/2021 17:58:45] Cocinero1 coge el pedido Cliente28- P1 de la mesa de platos
+[12/08/2021 17:58:45] Cliente60 deja el pedido Cliente60- P1 en el mostrador de pedidos
+[12/08/2021 17:58:45] Empleado1 coge el pedido Cliente50- P1 del mostrador de pedidos
+[12/08/2021 17:58:45] Cocinero2 Cocinado pedidoCliente26- P1
+[12/08/2021 17:58:45] Cocinero2 coge el pedido Cliente29- P1 de la mesa de platos
+[12/08/2021 17:58:45] Empleado2 coge el pedido Cliente51- P1 del mostrador de pedidos
+[12/08/2021 17:58:45] Cliente61 deja el pedido Cliente61- P1 en el mostrador de pedidos
+[12/08/2021 17:58:46] Cliente60 deja el pedido Cliente60- P2 en el mostrador de pedidos
+[12/08/2021 17:58:46] Empleado1 deja el pedido Cliente50- P1 en la mesa de pedidos
+[12/08/2021 17:58:46] Cocinero3 Cocinado pedidoCliente27- P1
+[12/08/2021 17:58:46] Cocinero3 coge el pedido Cliente30- P1 de la mesa de platos
+[12/08/2021 17:58:46] Empleado1 coge el pedido Cliente52- P1 del mostrador de pedidos
+[12/08/2021 17:58:46] Cliente62 deja el pedido Cliente62- P1 en el mostrador de pedidos
+[12/08/2021 17:58:46] Cliente61 deja el pedido Cliente61- P2 en el mostrador de pedidos
+[12/08/2021 17:58:46] Empleado2 deja el pedido Cliente51- P1 en la mesa de pedidos
+[12/08/2021 17:58:46] Empleado1 deja el pedido Cliente52- P1 en la mesa de pedidos
+[12/08/2021 17:58:47] Cliente62 deja el pedido Cliente62- P2 en el mostrador de pedidos
+[12/08/2021 17:58:47] Cocinero1 Cocinado pedidoCliente28- P1
+[12/08/2021 17:58:47] Cocinero1 coge el pedido Cliente31- P1 de la mesa de platos
+[12/08/2021 17:58:47] Empleado2 coge el pedido Cliente53- P1 del mostrador de pedidos
+[12/08/2021 17:58:47] Cliente63 deja el pedido Cliente63- P1 en el mostrador de pedidos
+[12/08/2021 17:58:47] Cocinero2 Cocinado pedidoCliente29- P1
+[12/08/2021 17:58:47] Cocinero2 coge el pedido Cliente32- P1 de la mesa de platos
+[12/08/2021 17:58:47] Empleado2 deja el pedido Cliente53- P1 en la mesa de pedidos
+[12/08/2021 17:58:47] Cliente63 deja el pedido Cliente63- P2 en el mostrador de pedidos
+[12/08/2021 17:58:48] Cocinero3 Cocinado pedidoCliente30- P1
+[12/08/2021 17:58:48] Cocinero3 coge el pedido Cliente33- P1 de la mesa de platos
+[12/08/2021 17:58:48] Empleado2 coge el pedido Cliente54- P1 del mostrador de pedidos
+[12/08/2021 17:58:48] Cliente64 deja el pedido Cliente64- P1 en el mostrador de pedidos
+[12/08/2021 17:58:48] Empleado2 deja el pedido Cliente54- P1 en la mesa de pedidos
+[12/08/2021 17:58:48] Cliente64 deja el pedido Cliente64- P2 en el mostrador de pedidos
+[12/08/2021 17:58:49] Cocinero1 Cocinado pedidoCliente31- P1
+[12/08/2021 17:58:49] Cocinero1 coge el pedido Cliente34- P1 de la mesa de platos
+[12/08/2021 17:58:49] Cliente65 deja el pedido Cliente65- P1 en el mostrador de pedidos
+[12/08/2021 17:58:49] Empleado2 coge el pedido Cliente55- P1 del mostrador de pedidos
+[12/08/2021 17:58:49] Empleado1 coge el pedido Cliente56- P1 del mostrador de pedidos
+[12/08/2021 17:58:49] Cliente67 deja el pedido Cliente67- P1 en el mostrador de pedidos
+[12/08/2021 17:58:49] Empleado2 deja el pedido Cliente55- P1 en la mesa de pedidos
+[12/08/2021 17:58:49] Cocinero2 Cocinado pedidoCliente32- P1
+[12/08/2021 17:58:49] Cocinero2 coge el pedido Cliente35- P1 de la mesa de platos
+[12/08/2021 17:58:49] Empleado2 coge el pedido Cliente57- P1 del mostrador de pedidos
+[12/08/2021 17:58:49] Cliente66 deja el pedido Cliente66- P1 en el mostrador de pedidos
+[12/08/2021 17:58:49] Empleado1 deja el pedido Cliente56- P1 en la mesa de pedidos
+[12/08/2021 17:58:49] Cliente67 deja el pedido Cliente67- P2 en el mostrador de pedidos
+[12/08/2021 17:58:49] Cocinero3 Cocinado pedidoCliente33- P1
+[12/08/2021 17:58:49] Cocinero3 coge el pedido Cliente36- P1 de la mesa de platos
+[12/08/2021 17:58:49] Cliente65 deja el pedido Cliente65- P2 en el mostrador de pedidos
+[12/08/2021 17:58:49] Empleado1 coge el pedido Cliente58- P1 del mostrador de pedidos
+[12/08/2021 17:58:49] Cliente68 deja el pedido Cliente68- P1 en el mostrador de pedidos
+[12/08/2021 17:58:49] Empleado2 deja el pedido Cliente57- P1 en la mesa de pedidos
+[12/08/2021 17:58:50] Cliente68 deja el pedido Cliente68- P2 en el mostrador de pedidos
+[12/08/2021 17:58:50] Empleado1 deja el pedido Cliente58- P1 en la mesa de pedidos
+[12/08/2021 17:58:50] Cliente66 deja el pedido Cliente66- P2 en el mostrador de pedidos
+[12/08/2021 17:58:50] Cocinero1 Cocinado pedidoCliente34- P1
+[12/08/2021 17:58:50] Cocinero1 coge el pedido Cliente37- P1 de la mesa de platos
+[12/08/2021 17:58:50] Empleado2 coge el pedido Cliente59- P1 del mostrador de pedidos
+[12/08/2021 17:58:50] Cliente69 deja el pedido Cliente69- P1 en el mostrador de pedidos
+[12/08/2021 17:58:51] Cocinero2 Cocinado pedidoCliente35- P1
+[12/08/2021 17:58:51] Cocinero2 coge el pedido Cliente38- P1 de la mesa de platos
+[12/08/2021 17:58:51] Empleado1 coge el pedido Cliente60- P1 del mostrador de pedidos
+[12/08/2021 17:58:51] Cliente70 deja el pedido Cliente70- P1 en el mostrador de pedidos
+[12/08/2021 17:58:51] Cliente69 deja el pedido Cliente69- P2 en el mostrador de pedidos
+[12/08/2021 17:58:51] Empleado2 deja el pedido Cliente59- P1 en la mesa de pedidos
+[12/08/2021 17:58:51] Cocinero3 Cocinado pedidoCliente36- P1
+[12/08/2021 17:58:51] Cocinero3 coge el pedido Cliente39- P1 de la mesa de platos
+[12/08/2021 17:58:51] Empleado2 coge el pedido Cliente61- P1 del mostrador de pedidos
+[12/08/2021 17:58:51] Cliente72 deja el pedido Cliente72- P1 en el mostrador de pedidos
+[12/08/2021 17:58:51] Empleado1 deja el pedido Cliente60- P1 en la mesa de pedidos
+[12/08/2021 17:58:52] Cliente70 deja el pedido Cliente70- P2 en el mostrador de pedidos
+[12/08/2021 17:58:52] Empleado2 deja el pedido Cliente61- P1 en la mesa de pedidos
+[12/08/2021 17:58:52] Cliente72 deja el pedido Cliente72- P2 en el mostrador de pedidos
+[12/08/2021 17:58:52] Cocinero1 Cocinado pedidoCliente37- P1
+[12/08/2021 17:58:52] Cocinero1 coge el pedido Cliente40- P1 de la mesa de platos
+[12/08/2021 17:58:52] Empleado1 coge el pedido Cliente62- P1 del mostrador de pedidos
+[12/08/2021 17:58:52] Cliente71 deja el pedido Cliente71- P1 en el mostrador de pedidos
+[12/08/2021 17:58:53] Empleado1 deja el pedido Cliente62- P1 en la mesa de pedidos
+[12/08/2021 17:58:53] Cocinero2 Cocinado pedidoCliente38- P1
+[12/08/2021 17:58:53] Cocinero2 coge el pedido Cliente41- P1 de la mesa de platos
+[12/08/2021 17:58:53] Empleado2 coge el pedido Cliente63- P1 del mostrador de pedidos
+[12/08/2021 17:58:53] Cliente73 deja el pedido Cliente73- P1 en el mostrador de pedidos
+[12/08/2021 17:58:53] Cliente71 deja el pedido Cliente71- P2 en el mostrador de pedidos
+[12/08/2021 17:58:53] Cocinero3 Cocinado pedidoCliente39- P1
+[12/08/2021 17:58:53] Cocinero3 coge el pedido Cliente42- P1 de la mesa de platos
+[12/08/2021 17:58:53] Cliente74 deja el pedido Cliente74- P1 en el mostrador de pedidos
+[12/08/2021 17:58:53] Empleado1 coge el pedido Cliente64- P1 del mostrador de pedidos
+[12/08/2021 17:58:53] Empleado2 deja el pedido Cliente63- P1 en la mesa de pedidos
+[12/08/2021 17:58:54] Cliente73 deja el pedido Cliente73- P2 en el mostrador de pedidos
+[12/08/2021 17:58:54] Cliente74 deja el pedido Cliente74- P2 en el mostrador de pedidos
+[12/08/2021 17:58:54] Empleado1 deja el pedido Cliente64- P1 en la mesa de pedidos
+[12/08/2021 17:58:54] Cocinero1 Cocinado pedidoCliente40- P1
+[12/08/2021 17:58:54] Cocinero1 coge el pedido Cliente43- P1 de la mesa de platos
+[12/08/2021 17:58:54] Cliente75 deja el pedido Cliente75- P1 en el mostrador de pedidos
+[12/08/2021 17:58:54] Empleado2 coge el pedido Cliente65- P1 del mostrador de pedidos
+[12/08/2021 17:58:54] Cocinero2 Cocinado pedidoCliente41- P1
+[12/08/2021 17:58:54] Cocinero2 coge el pedido Cliente44- P1 de la mesa de platos
+[12/08/2021 17:58:54] Empleado1 coge el pedido Cliente67- P1 del mostrador de pedidos
+[12/08/2021 17:58:54] Cliente76 deja el pedido Cliente76- P1 en el mostrador de pedidos
+[12/08/2021 17:58:55] Empleado2 deja el pedido Cliente65- P1 en la mesa de pedidos
+[12/08/2021 17:58:55] Cliente75 deja el pedido Cliente75- P2 en el mostrador de pedidos
+[12/08/2021 17:58:55] Cocinero3 Cocinado pedidoCliente42- P1
+[12/08/2021 17:58:55] Cocinero3 coge el pedido Cliente45- P1 de la mesa de platos
+[12/08/2021 17:58:55] Cliente77 deja el pedido Cliente77- P1 en el mostrador de pedidos
+[12/08/2021 17:58:55] Empleado2 coge el pedido Cliente66- P1 del mostrador de pedidos
+[12/08/2021 17:58:55] Empleado1 deja el pedido Cliente67- P1 en la mesa de pedidos
+[12/08/2021 17:58:55] Cliente76 deja el pedido Cliente76- P2 en el mostrador de pedidos
+[12/08/2021 17:58:55] Empleado2 deja el pedido Cliente66- P1 en la mesa de pedidos
+[12/08/2021 17:58:56] Cocinero1 Cocinado pedidoCliente43- P1
+[12/08/2021 17:58:56] Cocinero1 coge el pedido Cliente46- P1 de la mesa de platos
+[12/08/2021 17:58:56] Empleado1 coge el pedido Cliente68- P1 del mostrador de pedidos
+[12/08/2021 17:58:56] Cliente78 deja el pedido Cliente78- P1 en el mostrador de pedidos
+[12/08/2021 17:58:56] Cliente77 deja el pedido Cliente77- P2 en el mostrador de pedidos
+[12/08/2021 17:58:56] Cocinero2 Cocinado pedidoCliente44- P1
+[12/08/2021 17:58:56] Cocinero2 coge el pedido Cliente47- P1 de la mesa de platos
+[12/08/2021 17:58:56] Cliente79 deja el pedido Cliente79- P1 en el mostrador de pedidos
+[12/08/2021 17:58:56] Empleado2 coge el pedido Cliente69- P1 del mostrador de pedidos
+[12/08/2021 17:58:56] Empleado1 deja el pedido Cliente68- P1 en la mesa de pedidos
+[12/08/2021 17:58:56] Cliente78 deja el pedido Cliente78- P2 en el mostrador de pedidos
+[12/08/2021 17:58:57] Cliente79 deja el pedido Cliente79- P2 en el mostrador de pedidos
+[12/08/2021 17:58:57] Cocinero3 Cocinado pedidoCliente45- P1
+[12/08/2021 17:58:57] Cocinero3 coge el pedido Cliente48- P1 de la mesa de platos
+[12/08/2021 17:58:57] Empleado1 coge el pedido Cliente70- P1 del mostrador de pedidos
+[12/08/2021 17:58:57] Cliente80 deja el pedido Cliente80- P1 en el mostrador de pedidos
+[12/08/2021 17:58:57] Empleado2 deja el pedido Cliente69- P1 en la mesa de pedidos
+[12/08/2021 17:58:57] Cliente80 deja el pedido Cliente80- P2 en el mostrador de pedidos
+[12/08/2021 17:58:57] Empleado1 deja el pedido Cliente70- P1 en la mesa de pedidos
+[12/08/2021 17:58:58] Cocinero1 Cocinado pedidoCliente46- P1
+[12/08/2021 17:58:58] Cocinero1 coge el pedido Cliente49- P1 de la mesa de platos
+[12/08/2021 17:58:58] Empleado2 coge el pedido Cliente72- P1 del mostrador de pedidos
+[12/08/2021 17:58:58] Cliente81 deja el pedido Cliente81- P1 en el mostrador de pedidos
+[12/08/2021 17:58:58] Cocinero2 Cocinado pedidoCliente47- P1
+[12/08/2021 17:58:58] Cocinero2 coge el pedido Cliente50- P1 de la mesa de platos
+[12/08/2021 17:58:58] Cliente82 deja el pedido Cliente82- P1 en el mostrador de pedidos
+[12/08/2021 17:58:58] Empleado1 coge el pedido Cliente71- P1 del mostrador de pedidos
+[12/08/2021 17:58:58] Empleado1 deja el pedido Cliente71- P1 en la mesa de pedidos
+[12/08/2021 17:58:58] Empleado2 deja el pedido Cliente72- P1 en la mesa de pedidos
+[12/08/2021 17:58:58] Cocinero3 Cocinado pedidoCliente48- P1
+[12/08/2021 17:58:58] Cocinero3 coge el pedido Cliente51- P1 de la mesa de platos
+[12/08/2021 17:58:58] Empleado1 coge el pedido Cliente73- P1 del mostrador de pedidos
+[12/08/2021 17:58:58] Cliente83 deja el pedido Cliente83- P1 en el mostrador de pedidos
+[12/08/2021 17:58:58] Cliente81 deja el pedido Cliente81- P2 en el mostrador de pedidos
+[12/08/2021 17:58:58] Cliente82 deja el pedido Cliente82- P2 en el mostrador de pedidos
+[12/08/2021 17:58:59] Empleado1 deja el pedido Cliente73- P1 en la mesa de pedidos
+[12/08/2021 17:58:59] Cliente83 deja el pedido Cliente83- P2 en el mostrador de pedidos
+[12/08/2021 17:59:00] Cocinero2 Cocinado pedidoCliente50- P1
+[12/08/2021 17:59:00] Cocinero2 coge el pedido Cliente52- P1 de la mesa de platos
+[12/08/2021 17:59:00] Empleado2 coge el pedido Cliente74- P1 del mostrador de pedidos
+[12/08/2021 17:59:00] Cliente84 deja el pedido Cliente84- P1 en el mostrador de pedidos
+[12/08/2021 17:59:00] Cocinero1 Cocinado pedidoCliente49- P1
+[12/08/2021 17:59:00] Cocinero1 coge el pedido Cliente53- P1 de la mesa de platos
+[12/08/2021 17:59:00] Cliente85 deja el pedido Cliente85- P1 en el mostrador de pedidos
+[12/08/2021 17:59:00] Empleado1 coge el pedido Cliente75- P1 del mostrador de pedidos
+[12/08/2021 17:59:00] Empleado2 deja el pedido Cliente74- P1 en la mesa de pedidos
+[12/08/2021 17:59:00] Cocinero3 Cocinado pedidoCliente51- P1
+[12/08/2021 17:59:00] Cocinero3 coge el pedido Cliente54- P1 de la mesa de platos
+[12/08/2021 17:59:00] Empleado2 coge el pedido Cliente76- P1 del mostrador de pedidos
+[12/08/2021 17:59:00] Cliente86 deja el pedido Cliente86- P1 en el mostrador de pedidos
+[12/08/2021 17:59:00] Empleado1 deja el pedido Cliente75- P1 en la mesa de pedidos
+[12/08/2021 17:59:00] Cliente85 deja el pedido Cliente85- P2 en el mostrador de pedidos
+[12/08/2021 17:59:00] Cliente84 deja el pedido Cliente84- P2 en el mostrador de pedidos
+[12/08/2021 17:59:00] Empleado2 deja el pedido Cliente76- P1 en la mesa de pedidos
+[12/08/2021 17:59:01] Cliente86 deja el pedido Cliente86- P2 en el mostrador de pedidos
